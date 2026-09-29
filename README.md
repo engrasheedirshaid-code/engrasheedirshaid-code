@@ -4,3 +4,11 @@
 ---
 ## Tech Stack :
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,flutter)](https://skillicons.dev)
+
+Technologies
+- Flutter
+- React
+- Node.js
+- PHP
+- AWS
+- WordPress
